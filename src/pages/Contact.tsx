@@ -32,7 +32,7 @@ const Contact = () => {
   const contactCards = [
     {
       icon: MapPin,
-      title: "No. 7, Wheatcroft Road, Nungambakkam, Chennai - 600034,",
+      title: "No 15/7, Vengu Pillai Street, Egmore, Chennai, Tamil Nadu 600008,",
       subtitle: "Tamil Nadu - 600 112",
       color: "bg-primary",
     },

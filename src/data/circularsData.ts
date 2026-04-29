@@ -14,7 +14,7 @@ export const circulars: Circular[] = [
     id: "gbm-notice-en",
     number: "AIIBSCSTEWA/2026/04",
     title: "Notice for General Body Meeting (GBM) - English",
-    date: "15/04/2026",
+    date: "23/5/2026",
     month: "04",
     year: "2026",
     description:
@@ -25,7 +25,7 @@ export const circulars: Circular[] = [
     id: "gbm-notice-hi",
     number: "AIIBSCSTEWA/2026/03",
     title: "सूचना - General Body Meeting (Hindi Notice)",
-    date: "15/04/2026",
+    date: "23/5/2026",
     month: "04",
     year: "2026",
     description:
@@ -36,7 +36,7 @@ export const circulars: Circular[] = [
     id: "gbm-circular-hi",
     number: "AIIBSCSTEWA/2026/02",
     title: "General Body Meeting Circular (Hindi)",
-    date: "10/04/2026",
+    date: "23/5/2026",
     month: "04",
     year: "2026",
     description:
@@ -47,7 +47,7 @@ export const circulars: Circular[] = [
     id: "gbm-main",
     number: "AIIBSCSTEWA/2026/01",
     title: "General Body Meeting - Agenda & Details",
-    date: "05/04/2026",
+    date: "23/5/2026",
     month: "04",
     year: "2026",
     description:
